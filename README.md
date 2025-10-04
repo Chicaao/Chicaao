@@ -49,7 +49,7 @@ Aprimorando meus conhecimentos em:
 
 * **LinkedIn:** https://www.linkedin.com/in/francisco-dias-de-bessa-junior-97b646201/
 * **Email:** juniordbessa50@gmail.com
-* **Website/Portfólio:** Novidades em breve (kkk)
+* **Website/Portfólio:** https://chicodev.netlify.app/
 
 ---
 
