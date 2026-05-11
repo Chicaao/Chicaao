@@ -1,59 +1,43 @@
-# 👋 Olá, eu sou o Francisco!  
+# 👋 Olá, eu sou o Francisco!
 
-Sou apaixonado por tecnologia e atualmente estou me aprofundando em **Python** e **JavaScript**.  
-Aqui você vai encontrar meus estudos, projetos de automação e desenvolvimento web.  
+**Desenvolvedor Full-stack** focado na criação de soluções escaláveis, automação de processos e integração de sistemas (APIs). Com experiência no setor de telecomunicações, foco-me na construção de arquiteturas que abrangem desde a modelação de bases de dados e orquestração de containers até à entrega da interface final.
 
----
-
-## 💻 Tecnologias e Ferramentas  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+Aqui encontras os meus projetos de automação, gestão de redes e desenvolvimento web.
 
 ---
 
-## 🚀 O que você encontra por aqui  
-- Projetos de **automação em Python**  
-- Projetos de **desenvolvimento web**  
-- Desafios e experimentos de aprendizado  
+## 💻 Stack Técnica
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🌱 Atualmente estudando  
-Aprimorando meus conhecimentos em:  
-- **Python** (automação e backend)  
-- **JavaScript** (front-end e integração com APIs)  
+## 🚀 No que venho trabalhando
+- **Automação e Infraestrutura:** Desenvolvimento de bots e integrações complexas com APIs (como Zabbix) para monitorização de redes e automação de fluxos de chamados (IMOC).
+- **Desenvolvimento Back-end:** Construção de lógicas robustas e APIs RESTful utilizando **Python (Django/Flask)** com suporte de containers via **Docker**.
+- **Desenvolvimento Front-end:** Criação de interfaces dinâmicas, responsivas e integração eficiente de dados com o back-end.
 
 ---
 
-## 📊 Estatísticas do GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chicaao&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chicaao&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Chicaao&theme=radical&hide_border=true)  
+## 🌱 Foco Atual
+- Aprimoramento em arquitetura de software e orquestração de containers.
+- Otimização de consultas em bases de dados relacionais e modelação de dados.
+- Segurança e escalabilidade de APIs.
 
 ---
 
-## 🌐 Portfólio  
-👉 Confira meus projetos e mais sobre mim em:  
-[![Portfolio](https://img.shields.io/badge/Portfolio-chicodev.netlify.app-blue?style=for-the-badge)](https://chicodev.netlify.app/)  
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chicaao&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chicaao&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Chicaao&theme=radical&hide_border=true)
 
 ---
 
-## 🤝 Como me encontrar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Dias-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/francisco-dias-de-bessa-junior-97b646201/)  
-[![Gmail](https://img.shields.io/badge/Email-juniordbessa50@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniordbessa50@gmail.com)  
-
----
-
-* **LinkedIn:** https://www.linkedin.com/in/francisco-dias-de-bessa-junior-97b646201/
-* **Email:** juniordbessa50@gmail.com
-* **Website/Portfólio:** https://chicodev.netlify.app/
-
----
-
-### 📈 Estatísticas do GitHub:
-
-[![Chicaao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chicaao&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chicaao&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## 🤝 Vamos ligar-nos?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Dias-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/francisco-dias-de-bessa-junior-97b646201/)
+[![Gmail](https://img.shields.io/badge/Email-juniordbessa50@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniordbessa50@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chicodev.netlify.app-blue?style=for-the-badge)](https://chicodev.netlify.app/)
